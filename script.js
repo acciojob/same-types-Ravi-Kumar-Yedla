@@ -4,9 +4,9 @@ function isSameType(value1, value2) {
     return true;
 		 
   }
- // if(isString(value1)&& isStri(value2)){
-	//  return true;
- // }
+ if(isString(value1)&& isStri(value2)){
+	 return true;
+ }
 	
 }
 
